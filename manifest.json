@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Fortune Banner Removal",
+  "name": "In-Fortune",
   "description": "[Chrome Extension] A fun project to validate why you should remove DOM objects instead of using CSS properties to hide content.",
   "version": "1.0",
   "icons": {
